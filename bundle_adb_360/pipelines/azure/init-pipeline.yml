@@ -8,7 +8,7 @@ trigger:
       - '*'
 
 variables:
-- group: vgdevadb360
+- group: vgdevadb360-1
 
 stages:
 - stage: stg_validate_deploy_bundles
